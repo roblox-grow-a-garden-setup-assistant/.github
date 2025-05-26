@@ -4,7 +4,7 @@
   
 > It simply prepares an offline sandbox so you can learn gardening basics without needing Wi-Fi or an account.
 
----
+--- 
 
 ## ⚙️ How to Use
 
