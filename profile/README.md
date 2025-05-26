@@ -41,10 +41,3 @@
 
 `grow a garden offline activation, roblox garden setup assistant, no login needed, classroom farming mod, airgapped install, kid friendly roblox guide, desktop sandbox builder, full version enabled, enterprise deployment, grow a garden unlock`
 
----
-
-### 📢 Legal & Safety
-
-This repository is **community-made** and **not affiliated** with Roblox Corporation or the original Grow a Garden developers.  
-All trademarks belong to their respective owners.  
-The assistant never downloads copyrighted assets; it only configures an existing local copy for offline educational use.
